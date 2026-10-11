@@ -116,10 +116,19 @@ As médias desconsideram valores vazios. A participação por país utiliza o to
 
 Foram conferidos os totais gerais (288; 2,94; 5,81), as interações da segmentação de perfil, o filtro por ferramenta na página de países, a participação total de 100% e a preservação da contagem após a mesclagem. As duas páginas foram revisadas em PDF; ajustes posteriores de texto e layout foram realizados no Desktop pelo autor. A última exportação com todos esses ajustes ainda deve ser conferida antes da publicação.
 
-## Entrega do portfólio
+## Arquivos do projeto
 
-Organizar juntos o arquivo IA_Estudo_Trabalho.pbix, a última exportação IA_Estudo_Trabalho.pdf, o print Modelo_Dados_IA.png e esta documentação. O PBIX é o relatório interativo; o PDF facilita a leitura sem Power BI; o print mostra o modelo; este arquivo descreve decisões e limitações.
+- [Relatório Power BI](IA_Estudo_Trabalho.pbix): arquivo interativo para abrir no Power BI Desktop.
+- [Dashboard em PDF](IA_Estudo_Trabalho.pdf): apresentação das duas páginas do relatório.
+- [Modelo de dados](Modelo_Dados_IA.png): imagem das tabelas e dos relacionamentos.
 
-Para reproduzir, baixar o CSV da fonte, atualizar o caminho do arquivo na consulta de origem no Power Query e atualizar o relatório. Os nomes das colunas e o formato da fonte devem corresponder à versão utilizada. Registrar a data de download e o nome exato do CSV no repositório ao organizar a entrega.
+## Como reproduzir
+
+1. Baixe o CSV na página do dataset indicada na seção Fonte e escopo.
+2. Abra o arquivo PBIX no Power BI Desktop.
+3. No Power Query, atualize o caminho do CSV na consulta de origem.
+4. Clique em Fechar e Aplicar e atualize o relatório.
+
+A reprodução depende de uma versão do CSV compatível com os nomes das colunas e os formatos utilizados neste projeto.
 
 **Competências demonstradas:** preparação de dados, preservação da origem, padronização de categorias, tratamento de ausências, tipagem com localidade, criação de colunas, junção externa à esquerda, modelagem dimensional, medidas DAX, contexto de filtro, visualização geográfica e comunicação dos limites da análise.
