@@ -2,6 +2,10 @@
 
 **Autor:** Diogo Fernandes · **Ferramentas:** Power BI Desktop, Power Query (M) e DAX
 
+## Visão geral do dashboard
+
+![Dashboard de IA no estudo e no trabalho](Dashboard_IA.png)
+
 ## Objetivo
 
 Construir um relatório interativo que descreva o uso de ferramentas de inteligência artificial entre estudantes e profissionais, comparando frequência de ferramentas, horas de uso diário, tempo economizado por semana e distribuição dos registros por país. Projeto de portfólio desenvolvido no contexto da formação em Dados e Analytics.
