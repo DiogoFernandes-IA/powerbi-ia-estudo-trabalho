@@ -119,7 +119,7 @@ Foram conferidos os totais gerais (288; 2,94; 5,81), as interações da segmenta
 ## Arquivos do projeto
 
 - [Relatório Power BI](IA_Estudo_Trabalho.pbix): arquivo interativo para abrir no Power BI Desktop.
-- [Dashboard em PDF](IA_Estudo_Trabalho%20%281%2.pdf): apresentação das duas páginas do relatório.
+- [Dashboard em PDF](https://github.com/DiogoFernandes-IA/powerbi-ia-estudo-trabalho/blob/main/IA_Estudo_Trabalho%20%281%29.pdf): apresentação das duas páginas do relatório.
 - [Modelo de dados](Modelo_dados_IA.png): imagem das tabelas e dos relacionamentos.
 
 ## Como reproduzir
